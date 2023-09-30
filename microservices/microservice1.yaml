@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: microservice1
-          image: umehabiba04/microservice1:10
+          image: umehabiba04/microservice1:11
           ports:
             - containerPort: 5000
 ---
